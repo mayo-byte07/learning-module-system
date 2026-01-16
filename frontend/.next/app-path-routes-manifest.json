@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/login/page": "/admin/login",
+  "/admin/page": "/admin",
+  "/auth/page": "/auth",
+  "/browse/page": "/browse",
+  "/dashboard/page": "/dashboard",
+  "/page": "/",
+  "/papers/[id]/page": "/papers/[id]"
+}

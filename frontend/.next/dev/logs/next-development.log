@@ -1,0 +1,4 @@
+[00:00:02.373] Server  LOG     ✓ Ready in 1688ms
+[00:00:19.793] Server  LOG     ○ Compiling / ...
+[00:00:22.302] Server  ERROR   (node:15804) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
